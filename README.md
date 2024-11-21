@@ -25,7 +25,7 @@
 ### Traffic Lights of Love
 - **설명**: (여기에 프로젝트 설명을 작성하세요)
 
-### Two- and Three-Dimensional Vector Operations
+### Three-Dimensional Vector Operations
 - **설명**: (여기에 프로젝트 설명을 작성하세요)
 
 ### Flags of the World
@@ -37,6 +37,8 @@
 ### Typing of the Dead
 - **설명**: (여기에 프로젝트 설명을 작성하세요)
 
+### Practice programs
+- **설명**: (여기에 프로젝트 설명을 작성하세요)
 ---
 
 ## 연락처
